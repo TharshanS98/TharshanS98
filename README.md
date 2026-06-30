@@ -132,7 +132,6 @@ Included:
 
 - Project Monitoring
 - Status Tracking
-- GIS Integration
 
 ---
 
